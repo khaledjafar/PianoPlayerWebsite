@@ -3,4 +3,6 @@ Piano buttons can respond to mouse and keyboard clicks that play audio and anima
 
 Using HTML, CSS, and JS.
 
+All audio sounds are downloaded from 'archive.org'.
+
 Thank you for reviewing.
